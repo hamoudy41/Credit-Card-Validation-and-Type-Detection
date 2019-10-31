@@ -1,0 +1,78 @@
+[
+  {
+    "Card Type": "American Express",
+    "Regular Expression": "^3[47][0-9]{13}$"
+  },
+  {
+    "Card Type": "China T-Union",
+    "Regular Expression": "^31[0-9]{17}$"
+  },
+  {
+    "Card Type": "China UnionPay",
+    "Regular Expression": "^(62|81)[0-9]{14}[0-9]{0,5}$"
+  },
+  {
+    "Card Type": "Diners Club International",
+    "Regular Expression": "^(3095|30[0-5][0-9]|3[689][0-9]{2})[0-9]{10}[0-9]{0,5}$"
+  },
+  {
+    "Card Type": "Diners ClubUnited States & Canada",
+    "Regular Expression": "^(54|55)[0-9]{14}$"
+  },
+  {
+    "Card Type": "RuPay",
+    "Regular Expression": "^(652[12]|60[0-9]{2})[0-9]{12}$"
+  },
+  {
+    "Card Type": "InterPayment",
+    "Regular Expression": "^636[0-9]{13}[0-9]{0,3}$"
+  },
+  {
+    "Card Type": "InstaPayment",
+    "Regular Expression": "^(63[7-9])[0-9]{13}$"
+  },
+  {
+    "Card Type": "JCB",
+    "Regular Expression": "^(352[89]|35[3-8][0-9])[0-9]{12}[0-9]{0,3}$"
+  },
+  {
+    "Card Type": "MaestroUK",
+    "Regular Expression": "^(6759[0-9]{2}|676770|676774)[0-9]{6,13}$"
+  },
+  {
+    "Card Type": "Maestro",
+    "Regular Expression": "^(5[6-9]|6[0-9]|50)[0-9]{10}[0-9]{0,7}$"
+  },
+  {
+    "Card Type": "Dankort",
+    "Regular Expression": "^(5019|4571)[0-9]{12}$"
+  },
+  {
+    "Card Type": "MIR",
+    "Regular Expression": "^220[0-4][0-9]{12}$"
+  },
+  {
+    "Card Type": "NPS Pridnestrovie",
+    "Regular Expression": "^(605474[0-4])[0-9]{9}$"
+  },
+  {
+    "Card Type": "Troy",
+    "Regular Expression": "^9792([0-7][0-9]|8[0-9])[0-9]{10}$"
+  },
+  {
+    "Card Type": "Visa",
+    "Regular Expression": "^4[0-9]{12}[0-9]{0,3}$"
+  },
+  {
+    "Card Type": "UATP",
+    "Regular Expression": "^1[0-9]{12}(?:[0-9]{3})?$"
+  },
+  {
+    "Card Type": "Verve",
+    "Regular Expression": "^(65000[2-9]|65001[0-9]|65002[0-7]|506099|5061[0-8][0-9]|50619[0-8])[0-9]{10,13}$"
+  },
+  {
+    "Card Type": "Discover Card",
+    "Regular Expression": "^((628[2-7][0-9]{2}|6288[0-8][0-9]|62889[0-9])|(62[45][0-9]{3}|626[0-8][0-9]{2}|6269[0-8][0-9]|62699[0-9])|(62212[6-9]|6221[3-9][0-9]|622[2-8][0-9]{2}|6229[01][0-9]|62292[0-5])|6011[0-9]{2}|64[0-9]{4}| 65[0-9]{4})[0-9]{10}[0-9]{0,3}$"
+  }
+]
